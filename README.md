@@ -30,7 +30,7 @@ Após testes moderados, identifiquei que o minimalismo excessivo gerava dúvida.
 ## 📄 Documentação Completa
 Para ler o estudo de caso detalhado com todas as análises, testes e reflexões críticas, acesse o link abaixo:
 
-👉 [**Baixar Estudo de Caso Completo (PDF)**](./documentacao-datainsights.pdf)
+👉 [**Acessar Estudo de Caso Completo (PDF)**](./documentacao-datainsights.pdf)
 
 ---
 **Desenvolvido por Fabio Santos**
